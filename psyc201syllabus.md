@@ -1,6 +1,6 @@
 # PSYC 201: Social Psychology Syllabus Spring 2018
 
-## Instructor: Patrick Sweeney
+## Instructor: Monika R. Wright
 
 ### Readings
 
@@ -15,3 +15,6 @@ Butler, J. *Gender Trouble*
 
 **Week 4**
 Fanon, F. *Black Skin, White Masks*
+
+**Week 5**
+Arendt, H. *The Human Condition*
